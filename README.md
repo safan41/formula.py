@@ -1,2 +1,2 @@
 # formula.py
-A simple basic python library containing math formulas
+A WIP basic python library containing math formulas
